@@ -1,2 +1,7 @@
-*.kicad_pcb-bak
-*.bak
+# *.kicad_pcb-bak
+# *.bak
+
+# Project Local Settings
+*.kicad_prl
+
+kicad/*-backups
