@@ -1,0 +1,3 @@
+[submodule "kicad/footprints/osm"]
+	path = kicad/footprints/osm
+	url = https://github.com/open-source-modular/kicad-footprints.git
